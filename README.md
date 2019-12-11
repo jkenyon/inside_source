@@ -25,7 +25,10 @@ On your machine, you first need to:
 Once installed:
 * Run 'yarn install'
 
-Access the src folder and edit whatever you need to. Save as usual. Most of it is in the components section.
+Modify the contents:
+* If necessary, clone the inside-search-app repo.
+* Navigate to the 'src' folder.
+* Edit whatever you need to. Save as usual. Most of it is in the components section.
 
 If everything works:
 * Run 'yarn build' from the inside-idaho-search-app home directory (should have a yarn.lock file).
