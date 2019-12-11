@@ -3,7 +3,7 @@
 https://insideidaho.org/
 
 ## Search App Source
-https://github.com/uidaholib/inside-idaho-search-app(https://github.com/uidaholib/inside-idaho-search-app)
+[https://github.com/uidaholib/inside-idaho-search-app](https://github.com/uidaholib/inside-idaho-search-app)
 
 ## To update the app section:
 
