@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "..\\node_modules\\inside-idaho-lib\\src\\components\\button\\button.svelte"
+  ],
+  "sourcesContent": [
+    "<svelte:options tag=\"x-button\" />\r\n\r\n<script>\r\n    export let color;\r\n</script>\r\n\r\n<style>button {\n  border-radius: 0.25rem;\n  padding-left: 1rem;\n  padding-right: 1rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\r\n</style>\r\n\r\n<button class=\"bg-blue-600 text-white shadow hover:bg-blue-500\">\r\n    <slot></slot>\r\n</button>"
+  ],
+  "names": [],
+  "mappings": "AAMO,MAAM,cAAC,CAAC,AACb,aAAa,CAAE,OAAO,CACtB,YAAY,CAAE,IAAI,CAClB,aAAa,CAAE,IAAI,CACnB,WAAW,CAAE,MAAM,CACnB,cAAc,CAAE,MAAM,AACxB,CAAC"
+}
